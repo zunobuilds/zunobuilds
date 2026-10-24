@@ -1,5 +1,5 @@
 ## Hi there 👋
-## 📫 How to reach me: zuno.githubcontact@gmail.com
+## 📫 Reach me at zuno.githubcontact@gmail.com
 
 <!--
 **zunobuilds/zunobuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
