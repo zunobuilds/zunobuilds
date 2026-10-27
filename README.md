@@ -19,14 +19,12 @@ I like messing around with computers, trying out new software, and building thin
 - 🦀 Currently learning **Rust** and **Python**
 - 🖥️ Working on some desktop software projects
 - 🔧 Interested in self-hosting, networking, and repurposing old hardware
-- 🌱 Mostly just experimenting with stuff and figuring things out
+- 🌱 Mostly experimenting with stuff and figuring things out
 
 ### AI & Development
 
-I use **[OpenAI Codex](https://openai.com/codex/)** to help with coding, debugging, and working on projects.
+I use [OpenAI Codex](https://github.com/openai/codex) to help with coding, debugging, and trying out ideas. I still try to understand and test what it writes.
 
-I try to understand what the code does rather than just blindly using whatever AI generates.
- [Codex Github](https://github.com/openai/codex)
 ### Tools
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -34,5 +32,3 @@ I try to understand what the code does rather than just blindly using whatever A
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
-
-</div>
