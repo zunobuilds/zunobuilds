@@ -20,10 +20,7 @@ I like messing around with computers, trying out new software, and building thin
 - 🖥️ Working on some desktop software projects
 - 🔧 Interested in self-hosting, networking, and repurposing old hardware
 - 🌱 Mostly experimenting with stuff and figuring things out
-
-### AI & Development
-
-I use [Codex](https://github.com/openai/codex) to help with coding and research.
+- 🤖 I use [Codex](https://github.com/openai/codex) to help with coding and research.
 
 ### Tools
 
