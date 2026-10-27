@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey, I'm Zuno 👋
+# Hey, I'm Zuno 
 
 **Linux • Open Source • Software • Hardware**
 
