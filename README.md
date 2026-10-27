@@ -3,42 +3,36 @@
 
 # Hey, I'm Zuno 👋
 
-**Open Source • Linux • Software • Hardware**
+**Linux • Open Source • Software • Hardware**
 
-Exploring technology, building software, and learning along the way.
+I like messing around with computers, trying out new software, and building things.
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zuno.githubcontact@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zuno.githubcontact@gmail.com)
 
 </div>
 
 ---
 
-### About Me
+### A bit about me
 
-- 🐧 Linux enthusiast running **Fedora KDE**
-- 🦀 Learning **Rust**, **Python**, and desktop development
-- 🖥️ Exploring native GUI development for **KDE & GNOME**
-- 🔧 Interested in **FOSS, self-hosting, networking, and hardware**
-- 🌱 Experimenting, learning, and building open-source projects
+- 🐧 I use **Fedora KDE**
+- 🦀 Currently learning **Rust** and **Python**
+- 🖥️ Working on some desktop software projects
+- 🔧 Interested in self-hosting, networking, and repurposing old hardware
+- 🌱 Mostly just experimenting with stuff and figuring things out
 
-### AI-Assisted Development
+### AI & Development
 
-I use **[OpenAI Codex](https://openai.com/codex/)** for planning, prototyping, debugging, and exploring new ideas.
+I use **[OpenAI Codex](https://openai.com/codex/)** to help with coding, debugging, and working on projects.
 
-AI is a tool in my workflow, not a substitute for understanding the code. I aim to review, test, and document AI-assisted contributions.
+I try to understand what the code does rather than just blindly using whatever AI generates.
 
-### Tech & Tools
+### Tools
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![OpenAI](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
-
----
-
-<div align="center">
-
-*Learn. Experiment. Build. Share.*
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
 </div>
