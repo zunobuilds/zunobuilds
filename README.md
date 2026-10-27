@@ -3,8 +3,6 @@
 
 # Hey, I'm Zuno 
 
-**Linux • Open Source • Software • Hardware**
-
 I like messing around with computers, trying out new software, and building things.
 
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zuno.githubcontact@gmail.com)
