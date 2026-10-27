@@ -23,7 +23,7 @@ I like messing around with computers, trying out new software, and building thin
 
 ### AI & Development
 
-I use [OpenAI Codex](https://github.com/openai/codex) to help with coding, debugging, and trying out ideas. I still try to understand and test what it writes.
+I use [Codex](https://github.com/openai/codex) to help with coding and research.
 
 ### Tools
 
