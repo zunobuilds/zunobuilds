@@ -25,11 +25,10 @@ I like messing around with computers, trying out new software, and building thin
 
 I'm working on three open-source GUI library projects:
 
-- **KDE GUI** — A reusable library for building native KDE applications.
+- **[KDE GUI](https://github.com/zunobuilds/kde-gui)** — A reusable library for building native KDE applications. 
 - **GNOME GUI** — A separate library for building native GNOME applications.
-- **Unified KDE/GNOME GUI** — A library that brings both together, with support for KDE and GNOME desktops.
 
-All three are still in early development. More details and code will be available as they progress.
+These are still in early development. More details and code will be available as they progress.
 
 
 ### Tools
