@@ -23,7 +23,7 @@ I like messing around with computers, trying out new software, and building thin
 
 ### Coming Soon
 
-I'm working on three open-source GUI library projects:
+I'm working on two open-source GUI library projects:
 
 - **[KDE GUI](https://github.com/zunobuilds/kde-gui)** — A reusable library for building native KDE applications. 
 - **GNOME GUI** — A separate library for building native GNOME applications.
