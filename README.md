@@ -23,10 +23,10 @@ I like messing around with computers, trying out new software, and building thin
 
 ### AI & Development
 
-I use **[OpenAI Codex](https://openai.com/codex/) [Codex Github](https://github.com/openai/codex)** to help with coding, debugging, and working on projects.
+I use **[OpenAI Codex](https://openai.com/codex/)** to help with coding, debugging, and working on projects.
 
 I try to understand what the code does rather than just blindly using whatever AI generates.
-
+ [Codex Github](https://github.com/openai/codex)
 ### Tools
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
