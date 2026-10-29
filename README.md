@@ -30,7 +30,7 @@ A few things I'm currently working on:
 - **[KDE GUI](https://github.com/zunobuilds/kde-gui)** — A library for building native KDE applications.
 - **GNOME GUI** — A library for building native GNOME applications. 
 
-These projects are still in early stages.
+These projects are still in their early stages.
 
 
 ### Tools
