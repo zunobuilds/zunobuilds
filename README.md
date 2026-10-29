@@ -21,14 +21,16 @@ I like messing around with computers, trying out new software, and building thin
 - I use [Codex](https://github.com/openai/codex) to help with coding and research.
 
 
-### Coming Soon
 
-I'm working on two projects:
+### Projects
 
-- **[KDE GUI](https://github.com/zunobuilds/kde-gui)** — A library for building native KDE applications. 
-- **GNOME GUI** — A library for building native GNOME applications.
+A few things I'm currently working on:
 
-These are still in early development. More details and code will be available as they progress.
+- **[Huawei HG8240T5 Research](https://github.com/zunobuilds/huawei-hg8240t5-research)** — Researching a retired Huawei ONR.
+- **[KDE GUI](https://github.com/zunobuilds/kde-gui)** — A library for building native KDE applications.
+- **GNOME GUI** — A library for building native GNOME applications. 
+
+These projects are still in early stages.
 
 
 ### Tools
