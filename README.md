@@ -26,7 +26,7 @@ I like messing around with computers, trying out new software, and building thin
 
 A few things I'm currently working on:
 
-- **[Huawei HG8240T5 Research](https://github.com/zunobuilds/huawei-hg8240t5-research)** — Exploring the hardware, firmware, and security of a retired Huawei [ONR](https://www.google.com/search?q=%Optical+Network+Router).
+- **[Huawei HG8240T5 Research](https://github.com/zunobuilds/huawei-hg8240t5-research)** — Exploring the hardware, firmware, and security of a retired Huawei [ONR](https://www.google.com/search?q=Optical+Network+Router).
 - **[KDE GUI](https://github.com/zunobuilds/kde-gui)** — A library for building native KDE applications.
 - **GNOME GUI** — A library for building native GNOME applications. 
 
