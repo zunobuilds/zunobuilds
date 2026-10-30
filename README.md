@@ -27,6 +27,7 @@ I like messing around with computers, trying out new software, and building thin
 A few things I'm currently working on:
 
 - **[Huawei HG8240T5 Research](https://github.com/zunobuilds/huawei-hg8240t5-research)** — Exploring the hardware, firmware, and security of a retired Huawei Optical Network Router (ONR).
+- **[Rivet](https://github.com/zunobuilds/rivet)** — An experimental AI coding-agent platform for Linux, built in Rust with solo and multi-agent modes.
 - **[KDE GUI](https://github.com/zunobuilds/kde-gui)** — A library for building native KDE applications.
 - **GNOME GUI** — A library for building native GNOME applications. 
 
