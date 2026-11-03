@@ -5,8 +5,6 @@
 
 I like messing around with computers, trying out new software, and building things.
 
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zuno.githubcontact@gmail.com)
-
 </div>
 
 ---
@@ -19,6 +17,8 @@ I like messing around with computers, trying out new software, and building thin
 - Interested in self-hosting, networking, and repurposing old hardware
 - Mostly experimenting with stuff and figuring things out
 - I use [Codex](https://github.com/openai/codex) to help with coding and research.
+- Contact me at zuno.githubcontact@gmail.com
+
 
 
 
