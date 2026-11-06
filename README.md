@@ -23,9 +23,8 @@ I like messing around with computers, trying out new software, and building thin
 
 ### Projects
 
-A few things I'm currently working on:
+A thing I'm currently working on:
 
-- **[Rivet](https://github.com/zunobuilds/rivet)** — AI harness. [Paused and Privated for now]
 - **[Huawei HG8240T5 Research](https://github.com/zunobuilds/huawei-hg8240t5-research)** — Exploring the hardware, firmware, and security of a retired Huawei Optical Network Router (ONR).
 
 
