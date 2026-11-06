@@ -16,7 +16,6 @@ I like messing around with computers, trying out new software, and building thin
 - Working on some desktop software projects
 - Interested in self-hosting, networking, and repurposing old hardware
 - Mostly experimenting with stuff and figuring things out
-- I use [Codex](https://github.com/openai/codex) to help with coding and research.
 - Contact me at zuno.githubcontact@gmail.com
 
 
@@ -36,4 +35,3 @@ A few things I'm currently working on:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
