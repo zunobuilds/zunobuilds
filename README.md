@@ -23,7 +23,7 @@ I like messing around with computers, trying out new software, and building thin
 
 ### Projects
 
-Some of my work:
+Some stuff that I am working on:
 
 - **[Huawei HG8240T5 Research](https://github.com/zunobuilds/huawei-hg8240t5-research)** — Exploring the hardware, firmware, and security of a retired Huawei Optical Network Router (ONR).
 
