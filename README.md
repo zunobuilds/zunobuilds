@@ -13,7 +13,7 @@ I like messing around with computers, trying out new software, and building thin
 
 - I use **Fedora KDE**
 - Currently learning **Python**
-- Working on some desktop software projects
+- Working on some research projects
 - Interested in self-hosting, networking, and repurposing old hardware
 - Mostly experimenting with stuff and figuring things out
 - Contact me at zuno.githubcontact@gmail.com
