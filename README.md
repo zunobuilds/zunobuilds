@@ -26,6 +26,7 @@ I like messing around with computers, trying out new software, and building thin
 Some stuff that I am working on:
 
 - **[Huawei HG8240T5 Research](https://github.com/zunobuilds/huawei-hg8240t5-research-legacy)** — Trying to find a backdoor into a retired Huawei Optical Network Router (ONR).
+      <archived for now>
 
 
 ### Tools
